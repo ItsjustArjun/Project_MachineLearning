@@ -22,7 +22,7 @@ The dataset contains a large set of car specifications, including:
 - Read the dataset using Pandas.
 - Handle missing values.
 - Encode categorical features using One-Hot Encoding.
-- Scale numerical features using StandardScaler.
+- Scale numerical features using `StandardScaler`.
 - Split data into training and testing sets.
 
 ### 2. Model Implementation
